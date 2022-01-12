@@ -1,6 +1,6 @@
 body
 {
-    color: black;
+    color: red;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -16,7 +16,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0px;
-    padding: 0.5 em;
+    padding: 2 em;
 }
 
 #cabecera #tagline
