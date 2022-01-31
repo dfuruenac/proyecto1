@@ -1,4 +1,6 @@
-﻿Esta es el primer archivo creado por Diego Urueña
+﻿Aportes a traves de FORK (Colaboracion gratuita) de usuario DigiksmarColaboracion gratuita) de usuario Digiksmartt
+
+Esta es el primer archivo creado por Diego Urueña
 
 Es la cuota incial de mis primeros pasos con Git y esperemos que una carrera exitosa con asuntos de Cloud
 
