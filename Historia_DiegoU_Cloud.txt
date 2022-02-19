@@ -18,6 +18,7 @@ Aplicación Rebase >>    Master 1
 =======
                         Rebase 2
 
+<<<<<<< HEAD
 Ahora a ingresado un nuevo colaborador el serño "DIGIKSMART"
 >>>>>>> cc77931 (Agregacion de lineas para Rebase 2)
 
@@ -27,4 +28,6 @@ Ahora a ingresado un nuevo colaborador el serño "DIGIKSMART"
 
                         Rebase 2
 
+=======
+>>>>>>> d828330 (Correccion de error de forma)
 Ahora a ingresado un nuevo colaborador el serño "DIGIKSMART"
