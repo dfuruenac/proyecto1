@@ -13,7 +13,13 @@ Aplicación Rebase >>    Master 1
 
                         Rebase 1
 
+<<<<<<< HEAD
                         Master 2
+=======
+                        Rebase 2
+
+Ahora a ingresado un nuevo colaborador el serño "DIGIKSMART"
+>>>>>>> cc77931 (Agregacion de lineas para Rebase 2)
 
                         ********
 
