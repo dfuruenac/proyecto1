@@ -9,8 +9,3 @@
 :laughing:
 
 ## Con cariño, un entuasista de algunas tecnologias
-
-## Datos adicionales
-### * Autor: Diego Francisco Urueña Camargo
-### * Profesión: Ingeniero de Sistemas
-### * Telefono: 312 3456789
