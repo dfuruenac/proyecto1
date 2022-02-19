@@ -9,8 +9,14 @@ Ingeniero de Sistemas
 Telefono:3152642286
 Correo Eletcronico: dfuruenac@gmail.com
 
-Aplicación Rebase >> Master 1
+Aplicación Rebase >>    Master 1
+
+                        Master 2
+
+                        ********
+
+                        Rebase 1
+
+                        Rebase 2
 
 Ahora a ingresado un nuevo colaborador el serño "DIGIKSMART"
-
-
