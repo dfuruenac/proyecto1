@@ -12,3 +12,4 @@
 
 ## Datos adicionales
 ### * Autor: Diego Francisco Urueña Camargo
+### * Profesión: Ingeniero de Sistemas
